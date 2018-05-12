@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7900
 description: Includes contributions to The Tatler, The Examiner, The Spectator, and
   The Intelligencer
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13169#The-Prose-Works-of-Jonathan-Swift-D.D.---Volume-09--13-Contributions-to-The-Tatler-The-Examin_
 gutenberg_bookshelf: Politics
 gutenberg_issued: '2004-08-13'
 gutenberg_type: Text
